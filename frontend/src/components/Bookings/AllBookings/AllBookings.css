@@ -1,0 +1,10 @@
+.booking-table tr th{
+
+    text-align: center;
+    color: #fff!important;
+}
+
+.booking-table{
+    overflow: auto;
+}
+

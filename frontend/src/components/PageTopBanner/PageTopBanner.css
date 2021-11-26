@@ -1,0 +1,15 @@
+.page-top{
+    height: auto;
+    padding: 112px 50px;
+    box-shadow:inset 0 0 0 2000px rgba(12, 0, 7, 0.3);
+
+}
+.page-top h1{
+    color: #fff;
+}
+/* .page-top::after {
+    content: "";
+    position: absolute;
+    background-color: black;
+    opacity: 0.5;
+  } */

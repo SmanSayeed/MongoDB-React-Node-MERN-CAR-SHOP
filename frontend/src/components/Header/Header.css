@@ -1,0 +1,38 @@
+.brand{
+    font-weight: bold;
+}
+.brand span{
+    color: rgb(10, 21, 78);
+}
+.nav-items{
+    margin-left: auto;
+  
+}
+.nav-link{
+    color: rgb(5, 54, 17)!important;
+    
+    margin-right: 5px;
+
+}
+.nav-link:hover{
+   background-color: #fff;
+   border-radius: 5px;
+
+}
+
+
+.activeLinkc{
+    background-color: rgb(243, 88, 17)!important;
+    color: rgb(255, 255, 255)!important;
+    border-radius: 5px;
+}
+.signout{
+    color: #fff!important;
+}
+.user-name{
+    color:#fff;
+}
+
+.color-white{
+    color:#fff!important;
+}

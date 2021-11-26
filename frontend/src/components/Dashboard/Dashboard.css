@@ -1,0 +1,8 @@
+.dashboard-nav{
+    color:rgb(228, 150, 33)!important;
+    /* margin:10px 0px; */
+}
+.dashboard-nav:hover{
+    background-color:rgb(228, 150, 33)!important;
+    color: #fff!important;
+}

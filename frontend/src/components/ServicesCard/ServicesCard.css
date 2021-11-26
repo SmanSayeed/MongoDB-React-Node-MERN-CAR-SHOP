@@ -1,0 +1,24 @@
+.card-col{
+
+}
+
+.main-card{
+    overflow: hidden;
+    box-sizing: border-box;
+    min-height: 600px;
+    background-color: #010d1a;
+    box-shadow: -3px 1px 10px 0px #070222;
+}
+
+.cardimg{
+    height: 200px;
+    width: 100%;
+}
+
+.cardtext{
+    text-align: justify;
+    color:#fff;
+}
+.bg-light-dark{
+    background-color: rgb(117, 114, 114);
+}

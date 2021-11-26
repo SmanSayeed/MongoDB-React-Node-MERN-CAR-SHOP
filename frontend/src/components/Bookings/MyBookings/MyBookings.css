@@ -1,0 +1,7 @@
+.booking-table tr th{
+
+    text-align: center;
+}
+.booking-table{
+    overflow: auto;
+}

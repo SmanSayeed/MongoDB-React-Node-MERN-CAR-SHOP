@@ -1,0 +1,64 @@
+.home-top-row{
+    min-height: 60vh;
+    /* padding:40px 0px; */
+    /* background-image: url(images/doctor.jpg); */
+    overflow: hidden;
+}
+.home-top-content{
+    overflow: hidden;
+    z-index: 2;
+}
+
+.home-top-content p,h1,a{
+    text-align: left;
+
+}
+.sign-up{
+    width: 100px;
+    
+}
+.large-text{
+    font-size:3.5rem;
+    color:#fff;
+}
+.orange-text{
+    color: rgb(255, 145, 0);
+    font-weight: bold;
+}
+.small-text{
+    font-size:1.2rem;
+    color:#fff;
+}
+
+.top-img img{
+    height: 500px;
+    width: auto;
+}
+
+.top-banner-content{
+    overflow: hidden;
+    z-index: 2;
+}
+
+#color-overlay {
+   position: absolute;
+   top: 0;
+   left: 0;
+   width: 100%;
+   height: 100%;
+   background-color: black;
+   opacity: 0.6;
+}
+
+.main-top{
+    overflow: hidden;
+}
+
+.common{
+    overflow: hidden;
+    box-sizing: border-box;
+}
+
+.bg-light-dark{
+    background-color: rgb(37, 36, 36);
+}
