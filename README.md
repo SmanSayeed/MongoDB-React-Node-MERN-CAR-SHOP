@@ -41,7 +41,7 @@ This is an online car shop with admin dashboard and user dashboard
   ![alt text](/screen-shot/admin-add-car.png)
 
 - Admin Car List
-  ![alt text](/screen-shot/admin-car-list.png)
+  ![alt text](/screen-shot/admin-cars-list.png)
 
 - Admin all orders
   ![alt text](/screen-shot/admin-all-orders.png)
